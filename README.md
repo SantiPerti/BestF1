@@ -5,10 +5,10 @@ iOS App
 
 ### The results can be obtained over a period of time, a certain season, race, decade...  or all-time history.
 
-The algorithm is mainly based on driver merits when racing against his teammates, taking into account who their teammates are at each moment.
-It tries to remove *any* influence of the car or team they are driving for. 
+The algorithm is mainly based on driver merits when racing against his teammates, taking into account who their teammates were at every moment.
+It tries to remove *any* influence of their car or which team they are driving for. 
 
-* 1 The algorithm tries to calculate the *absolute importance* of each driver and his weighted average grid positions.
+* 1 The algorithm calculates the *absolute importance* of each driver and his weighted average grid positions.
 
 * 2 That number is then used to calculate the relative performance against your teammate; the real measure of your driving skills in equal opportunities.
 
